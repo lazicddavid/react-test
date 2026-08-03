@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# lokalna automatizacija, ne deo projekta
+real-autocommit.cjs
